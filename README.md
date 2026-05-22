@@ -1,7 +1,7 @@
 # 📘 Inteligencia Artificial
 
 <p align="center">
-  <img src="book_cover.jpg" width="320">
+  <img src="book_cover.png" width="320">
 </p>
 
 <p align="center">
