@@ -28,6 +28,7 @@ Aquí encontrarás:
 
 # 🗂️ Tabla de Contenido
 
+```text
 CAPÍTULO DE GENERALIDADES   
 Introducción al Espacio Académico
 Presentación de los capítulos
@@ -281,7 +282,7 @@ CAPÍTULO 5. La IA GENERATIVA
 5.14.9 Caso Práctico en Análisis de Mercado
 GLOSARIO
 REFERENCIAS BIBLIOGRÁFICAS
-
+```
 ---
 
 # 🧪 Talleres
