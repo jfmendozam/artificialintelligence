@@ -125,8 +125,9 @@ Este proyecto está bajo la licencia MIT.
 # 👨‍🏫 Autores
 
 **Juan Francisco Mendoza Moreno**
+
 **Luz Santamaría Granados**
 
-- Sitio web: https://tusitio.com
-- LinkedIn: https://linkedin.com/in/tuusuario
-- GitHub: https://github.com/tuusuario
+- Sitio web: (https://santotovirtual.edu.co/especializacion-en-ciencia-de-datos/)
+- LinkedIn: https://linkedin.com/in/jfmendozam
+- GitHub: https://github.com/jfmendozam
