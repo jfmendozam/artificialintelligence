@@ -66,7 +66,9 @@ CAPÍTULO 1. INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL (IA)
 1.16.6 [Estructura general del código](workshops/pag57/IA_Guía_DFS_BFS.pdf) <--> [Python](workshops/pag57/file_search.py)
 ```text
 1.16.7 Algoritmo Greedy Best-First Search (GBFS)
-1.16.8 Código Fuente Algoritmo GBFS
+```
+1.16.8 [Python Algoritmo GBFS](workshops/pag62/file_search_gbfs.py)
+```text
 1.16.9 Algoritmo A*
 1.16.10 Código Fuente Algoritmo A*
 1.17 Agentes basados en conocimiento
@@ -295,7 +297,7 @@ REFERENCIAS BIBLIOGRÁFICAS
 |---|---|---|
 | Taller 01 | Explorar Herramientas de Inteligencia Artificial | [Ir al taller](workshops/pag47/guía_explorar_herramientas_IA.pdf) |
 | Taller 02 | Algoritmos de búsqueda DFS y BFS | [Ir al taller](workshops/pag57/IA_Guía_DFS_BFS.pdf) <--> [Python](workshops/pag57/file_search.py) |
-| Taller 03 | Análisis de datos | [Ir al taller](talleres/taller-03/README.md) |
+| Taller 03 | Algoritmo GBFS | [Python](workshops/pag62/file_search_gbfs.py) |
 | Taller 04 | Machine Learning | [Ir al taller](talleres/taller-04/README.md) |
 
 ---
