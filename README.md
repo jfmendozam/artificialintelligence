@@ -1,7 +1,7 @@
 # 📘 Inteligencia Artificial
 
 <p align="center">
-  <img src="book_cover.png" width="320">
+  <img src="book_cover.png" width="640">
 </p>
 
 <p align="center">
@@ -310,7 +310,7 @@ REFERENCIAS BIBLIOGRÁFICAS
 | Taller 05 | Bases de conocimiento | [logic.py](workshops/pag73/logic.py), [medico_o_clase.py](workshops/pag73/medico_o_clase.py) y [programando.py](workshops/pag73/programando.py) |
 | Taller 06 | CNF | [logic.py](workshops/pag78/logic.py), [futbol.py](workshops/pag78/futbol.py) y [perdidos.py](workshops/pag78/perdidos.py) |
 | Taller 07 | Red Neuronal | [Python](workshops/pag99/mobile_price.ipynb) |
-|---|---|---|
+
 
 # 🚀 Cómo usar este repositorio
 
