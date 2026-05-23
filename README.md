@@ -79,7 +79,9 @@ CAPÍTULO 1. INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL (IA)
 1.17.3 Base de Conocimiento e Inferencia
 1.17.4 Verificación de Modelos (Model Checking)
 1.17.5 Hacia Agentes Basados en Conocimiento
-1.17.6 Implementación de Bases de Conocimiento en Python
+```
+1.17.6 Implementación de Bases de Conocimiento en Python: [logic.py](workshops/pag73/logic.py), [medico_o_clase.py.py](workshops/pag73/medico_o_clase.py) y [programando.py](workshops/pag73/programando.py)
+```text
 1.17.7 Inferencia en Agentes Basados en Conocimiento
 1.17.8. Implementación de CNF en Python
 
@@ -301,6 +303,7 @@ REFERENCIAS BIBLIOGRÁFICAS
 | Taller 02 | Algoritmos de búsqueda DFS y BFS | [Ir al taller](workshops/pag57/IA_Guía_DFS_BFS.pdf) <--> [Python](workshops/pag57/file_search.py) |
 | Taller 03 | Algoritmo GBFS | [Python](workshops/pag62/file_search_gbfs.py) |
 | Taller 04 | Algoritmo A* | [Python Algorithmo A*](workshops/pag64/file_search_astar.py) |
+| Taller 05 | Bases de conocimiento | [logic.py](workshops/pag73/logic.py), [medico_o_clase.py.py](workshops/pag73/medico_o_clase.py) y [programando.py](workshops/pag73/programando.py) |
 
 ---
 
