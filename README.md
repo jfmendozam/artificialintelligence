@@ -63,7 +63,7 @@ CAPÍTULO 1. INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL (IA)
 1.16.4 Limitaciones y consideraciones
 1.16.5 Buscar un archivo específico dentro de un sistema de archivos
 ```
-1.16.6 [Estructura general del código](workshops/pag57/IA_Guía_DFS_BFS.pdf) <--> [Python](workshops/pag57/file_search.py)
+1.16.6 [Estructura general del código](workshops/pag57/IA_Guía_DFS_BFS.pdf) <--> [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](workshops/pag57/file_search.py)
 ```text
 1.16.7 Algoritmo Greedy Best-First Search (GBFS)
 ```
