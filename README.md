@@ -112,7 +112,9 @@ CAPÍTULO 2. APRENDIZAJE PROFUNDO (DEEP LEARNING)
 2.8.6 Función Tangente Hiperbólica (Tanh)
 2.8.7 Función Softmax
 2.8.8 Selección práctica de funciones de activación
-2.9 Laboratorio para construir una Red Neuronal
+```
+2.9 Laboratorio para construir una Red Neuronal [Python](workshops/pag99/mobile_price.ipynb)
+```text
 2.10 Redes Neuronales Recurrentes para Datos Secuenciales
 2.10.1 Limitaciones de las redes feed-forward
 2.10.2 Introducción del bucle de retroalimentación ("Feedback")
@@ -307,6 +309,7 @@ REFERENCIAS BIBLIOGRÁFICAS
 | Taller 04 | Algoritmo A* | [Python Algorithmo A*](workshops/pag64/file_search_astar.py) |
 | Taller 05 | Bases de conocimiento | [logic.py](workshops/pag73/logic.py), [medico_o_clase.py](workshops/pag73/medico_o_clase.py) y [programando.py](workshops/pag73/programando.py) |
 | Taller 06 | CNF | [logic.py](workshops/pag78/logic.py), [futbol.py](workshops/pag78/futbol.py) y [perdidos.py](workshops/pag78/perdidos.py) |
+| Taller 07 | Red Neuronal [Python](workshops/pag99/mobile_price.ipynb) |
 
 ---
 
