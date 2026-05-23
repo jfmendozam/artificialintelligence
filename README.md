@@ -63,15 +63,15 @@ CAPÍTULO 1. INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL (IA)
 1.16.4 Limitaciones y consideraciones
 1.16.5 Buscar un archivo específico dentro de un sistema de archivos
 ```
-1.16.6 Estructura general del código: [![](https://img.shields.io/badge/PDF-66KB-FF61F6?logo=pdf&logoColor=white&style=for-the-badge)](workshops/pag57/IA_Guía_DFS_BFS.pdf), [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](workshops/pag57/file_search.py) (file_search.py)
+1.16.6 Estructura general del código: [![](https://img.shields.io/badge/PDF-207KB-FF61F6?logo=pdf&logoColor=white&style=for-the-badge)](workshops/pag57/IA_Guía_DFS_BFS.pdf), file_search.py: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](workshops/pag57/file_search.py)
 ```text
 1.16.7 Algoritmo Greedy Best-First Search (GBFS)
 ```
-1.16.8 [Python Algoritmo GBFS](workshops/pag62/file_search_gbfs.py)
+1.16.8 Python Algoritmo GBFS: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](workshops/pag62/file_search_gbfs.py)
 ```text
 1.16.9 Algoritmo A*
 ```
-1.16.10 [Python Algorithmo A*](workshops/pag64/file_search_astar.py)
+1.16.10 Python Algorithmo A*: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](workshops/pag64/file_search_astar.py)
 ```text
 1.17 Agentes basados en conocimiento
 1.17.1 Lógica Proposicional: Lenguaje Formal del Conocimiento
@@ -80,11 +80,11 @@ CAPÍTULO 1. INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL (IA)
 1.17.4 Verificación de Modelos (Model Checking)
 1.17.5 Hacia Agentes Basados en Conocimiento
 ```
-1.17.6 Implementación de Bases de Conocimiento en Python: [logic.py](workshops/pag73/logic.py), [medico_o_clase.py](workshops/pag73/medico_o_clase.py) y [programando.py](workshops/pag73/programando.py)
+1.17.6 Implementación de Bases de Conocimiento en Python: logic.py: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](workshops/pag73/logic.py), medico_o_clase.py: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](workshops/pag73/medico_o_clase.py) y programando.py: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](workshops/pag73/programando.py)
 ```text
 1.17.7 Inferencia en Agentes Basados en Conocimiento
 ```
-1.17.8. Implementación de CNF en Python [logic.py](workshops/pag78/logic.py), [futbol.py](workshops/pag78/futbol.py) y [perdidos.py](workshops/pag78/perdidos.py)
+1.17.8. Implementación de CNF en Python: logic.py: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](workshops/pag78/logic.py), futbol.py: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](workshops/pag78/futbol.py) y perdidos.py: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](workshops/pag78/perdidos.py)
 ```text
 
 CAPÍTULO 2. APRENDIZAJE PROFUNDO (DEEP LEARNING)
