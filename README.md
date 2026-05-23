@@ -339,13 +339,8 @@ pip install -r requirements.txt
 ```text
 .
 ├── README.md
-├── portada.jpg
-├── capitulos/
-├── talleres/
-├── datasets/
-├── notebooks/
-├── soluciones/
-└── recursos/
+├── book_cover.png
+├── workshops/
 ```
 
 ---
