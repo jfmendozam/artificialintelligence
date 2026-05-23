@@ -289,7 +289,7 @@ REFERENCIAS BIBLIOGRÁFICAS
 
 | Taller | Descripción | Enlace |
 |---|---|---|
-| Taller 01 | Explorar Herramientas de Inteligencia Artificial | [Ir al taller](workshops/pag47/README.md) |
+| Taller 01 | Explorar Herramientas de Inteligencia Artificial | [Ir al taller](workshops/pag47/Guía Explorar herramientas IA.pdf) |
 | Taller 02 | Variables y funciones | [Ir al taller](talleres/taller-02/README.md) |
 | Taller 03 | Análisis de datos | [Ir al taller](talleres/taller-03/README.md) |
 | Taller 04 | Machine Learning | [Ir al taller](talleres/taller-04/README.md) |
