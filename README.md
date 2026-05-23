@@ -54,7 +54,7 @@ CAPÍTULO 1. INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL (IA)
 1.14 IA, Aprendizaje Automático y Aprendizaje Profundo
 1.15 IA Generativa
 ```
-1.15.1 Exploración de Herramientas IA: [![](https://img.shields.io/badge/PDF-66KB-FF61F6?logo=pdf&logoColor=white&style=for-the-badge)](workshops/pag47/guía_explorar_herramientas_IA.pdf)
+1.15.1 Exploración de Herramientas IA: [![](https://img.shields.io/badge/PDF-66KB-FF61F6?logo=pdf&logoColor=white&style=for-the-badge)](workshops/pag47/guía_explorar_herramientas_IA.pdf) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/Gk6ERHEPrsI)
 ```text
 1.16 Algoritmos de Búsqueda
 1.16.1 Algoritmos de búsqueda no informada
