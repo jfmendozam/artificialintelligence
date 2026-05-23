@@ -62,7 +62,9 @@ CAPÍTULO 1. INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL (IA)
 1.16.3 Trade-off entre memoria y tiempo en estos algoritmos
 1.16.4 Limitaciones y consideraciones
 1.16.5 Buscar un archivo específico dentro de un sistema de archivos
-1.16.6 Estructura general del código
+```
+1.16.6 [Estructura general del código](workshops/pag57/IA_Guía_DFS_BFS.pdf) [Python](workshops/pag57/file_search.py)
+```text
 1.16.7 Algoritmo Greedy Best-First Search (GBFS)
 1.16.8 Código Fuente Algoritmo GBFS
 1.16.9 Algoritmo A*
@@ -292,7 +294,7 @@ REFERENCIAS BIBLIOGRÁFICAS
 | Taller | Descripción | Enlace |
 |---|---|---|
 | Taller 01 | Explorar Herramientas de Inteligencia Artificial | [Ir al taller](workshops/pag47/guía_explorar_herramientas_IA.pdf) |
-| Taller 02 | Variables y funciones | [Ir al taller](talleres/taller-02/README.md) |
+| Taller 02 | Algoritmos de búsqueda DFS y BFS | [Ir al taller](workshops/pag57/IA_Guía_DFS_BFS.pdf) [Python](workshops/pag57/file_search.py) |
 | Taller 03 | Análisis de datos | [Ir al taller](talleres/taller-03/README.md) |
 | Taller 04 | Machine Learning | [Ir al taller](talleres/taller-04/README.md) |
 
