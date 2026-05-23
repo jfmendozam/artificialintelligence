@@ -84,7 +84,7 @@ CAPÍTULO 1. INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL (IA)
 ```text
 1.17.7 Inferencia en Agentes Basados en Conocimiento
 ```
-1.17.8. Implementación de CNF en Python [logic.py](workshops/pag73/logic.py), [futbol.py](workshops/pag73/futbol.py) y [perdidos.py](workshops/pag73/perdidos.py)
+1.17.8. Implementación de CNF en Python [logic.py](workshops/pag78/logic.py), [futbol.py](workshops/pag78/futbol.py) y [perdidos.py](workshops/pag78/perdidos.py)
 ```text
 
 CAPÍTULO 2. APRENDIZAJE PROFUNDO (DEEP LEARNING)
@@ -306,7 +306,7 @@ REFERENCIAS BIBLIOGRÁFICAS
 | Taller 03 | Algoritmo GBFS | [Python](workshops/pag62/file_search_gbfs.py) |
 | Taller 04 | Algoritmo A* | [Python Algorithmo A*](workshops/pag64/file_search_astar.py) |
 | Taller 05 | Bases de conocimiento | [logic.py](workshops/pag73/logic.py), [medico_o_clase.py](workshops/pag73/medico_o_clase.py) y [programando.py](workshops/pag73/programando.py) |
-| Taller 06 | CNF | [logic.py](workshops/pag73/logic.py), [futbol.py](workshops/pag73/futbol.py) y [perdidos.py](workshops/pag73/perdidos.py) |
+| Taller 06 | CNF | [logic.py](workshops/pag78/logic.py), [futbol.py](workshops/pag78/futbol.py) y [perdidos.py](workshops/pag78/perdidos.py) |
 
 ---
 
