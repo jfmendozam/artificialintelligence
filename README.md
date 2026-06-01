@@ -171,13 +171,13 @@ CAPÍTULO 3. PROCESAMIENTO DE LENGUAJE NATURAL (NLP)
 3.9.2 Traducción Automática
 3.9.3 Impacto Integrado y Desafíos
 ```
-3.9.4 Laboratorio de Resumen de Texto y escritura creativa: question_answering.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag126/1_question_answering.ipynb), QA_on_long_passages.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag126/2_QA_on_long_passages.ipynb), QA_on_document_corpus.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag126/3_QA_on_document_corpus.ipynb), abstractive_qa_on_document_corpus.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag126/4_abstractive_qa_on_document_corpus.ipynb), summarization.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag126/5_summarization.ipynb), textual_entailment.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag126/6_textual_entailment.ipynb), explanability_via_classifier.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag126/7_explanability_via_classifier.ipynb), explanability_via_generation.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag126/8_explanability_via_generation.ipynb)
+3.9.4 Laboratorio de Resumen de Texto y escritura creativa: dividing_sentences_into_words_1.2.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag128/dividing_sentences_into_words_1.2.ipynb), dividing_text_into_sentences_1.1.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag128/dividing_text_into_sentences_1.1.ipynb), lemmatization_1.4.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag128/lemmatization_1.4.ipynb), part_of_speech_tagging_1.3.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag128/part_of_speech_tagging_1.3.ipynb), removing_stopwords_1.5.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag128/removing_stopwords_1.5.ipynb), sentences.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag128/sentences.ipynb), speech.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag128/speech.ipynb), words.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag128/words.ipynb), quijote.txt: [![.txt File](https://img.shields.io/badge/File-Data.txt-blue)](workshops/pag128/quijote.txt)
 ```text
 3.10 Análisis de Sentimientos
 3.10.1 Funcionamiento del Análisis de Sentimientos
 3.10.2 Factores que contribuyen al Sesgo en el Análisis de Sentimientos
 ```
-3.10.3. Laboratorio Análisis de Sentimientos
+3.10.3. Laboratorio Análisis de Sentimientos:
 
 ```text
 CAPÍTULO 4. VISIÓN POR COMPUTADOR Y ROBÓTICA
