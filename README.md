@@ -170,12 +170,16 @@ CAPÍTULO 3. PROCESAMIENTO DE LENGUAJE NATURAL (NLP)
 3.9.1 Resumen de Contenido
 3.9.2 Traducción Automática
 3.9.3 Impacto Integrado y Desafíos
-3.9.4 Laboratorio de Resumen de Texto y escritura creativa
+```
+3.9.4 Laboratorio de Resumen de Texto y escritura creativa: question_answering.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag126/1_question_answering.ipynb), QA_on_long_passages.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag126/2_QA_on_long_passages.ipynb), QA_on_document_corpus.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag126/3_QA_on_document_corpus.ipynb), abstractive_qa_on_document_corpus.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag126/4_abstractive_qa_on_document_corpus.ipynb), summarization.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag126/5_summarization.ipynb), textual_entailment.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag126/6_textual_entailment.ipynb), explanability_via_classifier.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag126/7_explanability_via_classifier.ipynb), explanability_via_generation.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag126/8_explanability_via_generation.ipynb)
+```text
 3.10 Análisis de Sentimientos
 3.10.1 Funcionamiento del Análisis de Sentimientos
 3.10.2 Factores que contribuyen al Sesgo en el Análisis de Sentimientos
+```
 3.10.3. Laboratorio Análisis de Sentimientos
 
+```text
 CAPÍTULO 4. VISIÓN POR COMPUTADOR Y ROBÓTICA
 4.1 Introducción
 4.2 Resumen
