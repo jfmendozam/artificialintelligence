@@ -164,7 +164,7 @@ CAPÍTULO 3. PROCESAMIENTO DE LENGUAJE NATURAL (NLP)
 3.7.6 Evaluación humana como estándar definitivo
 3.7.7 Proceso iterativo y responsabilidad ética
 ```
-3.8 Laboratorio NLP
+3.8 Laboratorio NLP: question_answering.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag126/1_question_answering.ipynb), QA_on_long_passages.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag126/2_QA_on_long_passages.ipynb), QA_on_document_corpus.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag126/3_QA_on_document_corpus.ipynb), abstractive_qa_on_document_corpus.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag126/4_abstractive_qa_on_document_corpus.ipynb), summarization.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag126/5_summarization.ipynb), textual_entailment.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag126/6_textual_entailment.ipynb), explanability_via_classifier.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag126/7_explanability_via_classifier.ipynb), explanability_via_generation.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag126/8_explanability_via_generation.ipynb)
 ```text
 3.9 Generación de Texto
 3.9.1 Resumen de Contenido
