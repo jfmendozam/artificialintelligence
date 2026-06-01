@@ -163,7 +163,9 @@ CAPÍTULO 3. PROCESAMIENTO DE LENGUAJE NATURAL (NLP)
 3.7.5 Métricas automáticas específicas
 3.7.6 Evaluación humana como estándar definitivo
 3.7.7 Proceso iterativo y responsabilidad ética
+```
 3.8 Laboratorio NLP
+```text
 3.9 Generación de Texto
 3.9.1 Resumen de Contenido
 3.9.2 Traducción Automática
