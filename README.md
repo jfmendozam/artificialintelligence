@@ -177,7 +177,7 @@ CAPÍTULO 3. PROCESAMIENTO DE LENGUAJE NATURAL (NLP)
 3.10.1 Funcionamiento del Análisis de Sentimientos
 3.10.2 Factores que contribuyen al Sesgo en el Análisis de Sentimientos
 ```
-3.10.3. Laboratorio Análisis de Sentimientos:  sentiment_analysis.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag133/sentiment_analysis.ipynb), sentiment_dataset.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag133/sentiment_dataset.ipynb), hotel_reviews.csv: [![CSV](https://img.shields.io/badge/data-CSV-blue?style=flat-square)](workshops/pag133/datasets/hotel_reviews.csv), Tweets.csv: [![CSV](https://img.shields.io/badge/data-CSV-blue?style=flat-square)](workshops/pag133/datasets/Tweets.csv.csv)
+3.10.3. Laboratorio Análisis de Sentimientos:  sentiment_analysis.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag133/sentiment_analysis.ipynb), sentiment_dataset.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag133/sentiment_dataset.ipynb), hotel_reviews.csv: [![CSV](https://img.shields.io/badge/data-CSV-blue?style=flat-square)](workshops/pag133/datasets/hotel_reviews.csv), Tweets.csv: [![CSV](https://img.shields.io/badge/data-CSV-blue?style=flat-square)](workshops/pag133/datasets/Tweets.csv)
 
 ```text
 CAPÍTULO 4. VISIÓN POR COMPUTADOR Y ROBÓTICA
