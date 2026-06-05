@@ -203,7 +203,9 @@ CAPÍTULO 4. VISIÓN POR COMPUTADOR Y ROBÓTICA
 4.4.2 Evolución de la Robótica Industrial
 4.4.3 Sistema Operativo de Robots (ROS)
 4.4.4 Madurez en Automatización
-4.4.5 Laboratorio Robótica
+```
+4.4.5 Laboratorio Robótica: computer_vision.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag157/computer_vision.ipynb) 
+```text
 
 CAPÍTULO 5. La IA GENERATIVA
 5.1 Introducción
