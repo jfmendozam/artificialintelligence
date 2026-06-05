@@ -197,14 +197,16 @@ CAPÍTULO 4. VISIÓN POR COMPUTADOR Y ROBÓTICA
 4.3.11 Detección y Localización de Objetos en Imágenes
 4.3.12 Segmentación de Imágenes: Conceptos y Métodos
 4.3.13 Métodos de Umbralización y Segmentación por Regiones
-4.3.14 Laboratorio de Visión por Computador
+```
+4.3.14 Laboratorio de Visión por Computador: computer_vision.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag157/computer_vision.ipynb) 
+```text
 4.4 Robótica
 4.4.1 Introducción
 4.4.2 Evolución de la Robótica Industrial
 4.4.3 Sistema Operativo de Robots (ROS)
 4.4.4 Madurez en Automatización
 ```
-4.4.5 Laboratorio Robótica: computer_vision.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag157/computer_vision.ipynb) 
+4.4.5 Laboratorio Robótica: robotic.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag165/robotic.ipynb) 
 ```text
 
 CAPÍTULO 5. La IA GENERATIVA
