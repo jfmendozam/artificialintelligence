@@ -219,7 +219,9 @@ CAPÍTULO 5. La IA GENERATIVA
 5.4.3 Modelos de Difusión
 5.4.4 Modelos de Lenguaje a Gran Escala (LLM)
 5.4.5 Comparación de Arquitecturas
-5.4.6 Laboratorio de Introducción a la IA Generativa
+```
+5.4.6 Laboratorio de Introducción a la IA Generativa: genAI_introduction.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag176/genAI_introduction.ipynb), [![](https://img.shields.io/badge/PDF-86KB-FF61F6?logo=pdf&logoColor=white&style=for-the-badge)](workshops/pag176/genAI_introduction.pdf)
+```text
 5.5. LLMs
 5.5.1 Introducción a los Modelos de Lenguaje a Gran Escala (LLMs)
 5.5.2 La Atención
@@ -227,21 +229,27 @@ CAPÍTULO 5. La IA GENERATIVA
 5.5.4 Aplicaciones
 5.5.5 Principales Modelos
 5.5.6 Restricciones
-5.5.7 Laboratorio de Introducción a los Modelos de Lenguaje a Gran Escala
+```
+5.5.7 Laboratorio de Introducción a los Modelos de Lenguaje a Gran Escala: LLM_introduction.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag180/LLM_introduction.ipynb), [![](https://img.shields.io/badge/PDF-107KB-FF61F6?logo=pdf&logoColor=white&style=for-the-badge)](workshops/pag180/LLM_introduction.pdf)
+```text
 5.6 Transformers
 5.6.1 Codificador y Decodificador
 5.6.2 El Mecanismo de Atención
 5.6.3 Atención Multi-Cabezal (Multi-Head)
 5.6.4 Capas de Atención
 5.6.5 Ventajas de los Transformers
-5.6.6 Laboratorio de Transformers
+```
+5.6.6 Laboratorio de Transformers: transformers.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag184/transformers.ipynb), [![](https://img.shields.io/badge/PDF-65KB-FF61F6?logo=pdf&logoColor=white&style=for-the-badge)](workshops/pag184/transformers.pdf)
+```text
 5.7 Datos de Entrenamiento y Tokenización
 5.7.1 Composición y Alcance de los Datos de Entrenamiento
 5.7.2 Desafíos Éticos y Técnicos en la Curación de Datos
 5.7.3 Proceso y Variantes de Tokenización
 5.7.4 Impacto de la Tokenización en el Rendimiento
 5.7.5 Interdependencia entre Datos y Tokenización
-5.7.6 Laboratorio de Transformers
+```
+5.7.6 Laboratorio de IA generativa: practial_genAI.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag187/practial_genAI.ipynb), [![](https://img.shields.io/badge/PDF-63KB-FF61F6?logo=pdf&logoColor=white&style=for-the-badge)](workshops/pag187/practial_genAI.pdf)
+```text
 5.8 Etapas de Desarrollo de Modelos de Lenguaje Extensos: Preentrenamiento y Ajuste Fino
 5.8.1 Preentrenamiento: Construcción de la Base Lingüística
 5.8.2 Ajuste Fino: Especialización Contextual
@@ -249,7 +257,9 @@ CAPÍTULO 5. La IA GENERATIVA
 5.8.4 Complementariedad de las Fases
 5.8.5 Ejemplos de Implementación Sectorial
 5.8.6 Implicaciones Estratégicas
-5.8.7 Laboratorio de Pre-Training y Fine-Tuning
+```
+5.8.7 Laboratorio de Pre-Training y Fine-Tuning: fine-tuning.ipynb: [![Notebook](https://img.shields.io/badge/Notebooks-Jupyter-orange)](workshops/pag190/fine-tuning.ipynb), [![](https://img.shields.io/badge/PDF-44KB-FF61F6?logo=pdf&logoColor=white&style=for-the-badge)](workshops/pag190/fine-tuning.pdf)
+```text
 5.9 Integración de Modelos de Lenguaje en Aplicaciones Prácticas
 5.9.1 Arquitectura Modular de Aplicaciones
 5.9.2 Asistentes Conversacionales
