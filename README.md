@@ -56,7 +56,7 @@ CAPÍTULO 1. INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL (IA)
 ```
 1.15.1 Exploración de Herramientas IA: [![](https://img.shields.io/badge/PDF-66KB-FF61F6?logo=pdf&logoColor=white&style=for-the-badge)](workshops/pag47/guía_explorar_herramientas_IA.pdf). Demo: [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/Gk6ERHEPrsI)
 ```text
-1.16 Algoritmos de Búsqueda: Presentación de Harvard University - [![](https://img.shields.io/badge/PDF-207KB-FF61F6?logo=pdf&logoColor=white&style=for-the-badge)](https://cdn.cs50.net/ai/2020/spring/lectures/0/lecture0.pdf)
+1.16 Algoritmos de Búsqueda: Presentación de Harvard University - [![](https://img.shields.io/badge/PDF-207KB-FF61F6?logo=pdf&logoColor=white&style=for-the-badge)](workshops/pag57/IA_Guía_DFS_BFS.pdf)
 1.16.1 Algoritmos de búsqueda no informada
 1.16.2 Búsqueda no informada versus informada
 1.16.3 Trade-off entre memoria y tiempo en estos algoritmos
