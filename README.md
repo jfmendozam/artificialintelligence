@@ -72,7 +72,7 @@ CAPÍTULO 1. INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL (IA)
 ```text
 1.16.9 Algoritmo A*
 ```
-1.16.10 Python Algorithmo A*: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](workshops/pag64/file_search_astar.py)
+1.16.10 Python Algoritmo A*: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](workshops/pag64/file_search_astar.py)
 
 1.17 Agentes basados en conocimiento: Presentación de Harvard University - [![](https://img.shields.io/badge/PDF-430KB-FF61F6?logo=pdf&logoColor=white&style=for-the-badge)](https://cdn.cs50.net/ai/2020/spring/lectures/1/lecture1.pdf)
 ```text
