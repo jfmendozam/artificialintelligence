@@ -56,7 +56,7 @@ CAPÍTULO 1. INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL (IA)
 ```
 1.15.1 Exploración de Herramientas IA: [![](https://img.shields.io/badge/PDF-66KB-FF61F6?logo=pdf&logoColor=white&style=for-the-badge)](workshops/pag47/guía_explorar_herramientas_IA.pdf). Demo: [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/Gk6ERHEPrsI)
 
-1.16 Algoritmos de Búsqueda: Presentación de Harvard University - [![](https://img.shields.io/badge/PDF-207KB-FF61F6?logo=pdf&logoColor=white&style=for-the-badge)](https://cdn.cs50.net/ai/2020/spring/lectures/0/lecture0.pdf)
+1.16 Algoritmos de Búsqueda: Presentación de Harvard University - [![](https://img.shields.io/badge/PDF-6.3MB-FF61F6?logo=pdf&logoColor=white&style=for-the-badge)](https://cdn.cs50.net/ai/2020/spring/lectures/0/lecture0.pdf)
 ```text
 1.16.1 Algoritmos de búsqueda no informada
 1.16.2 Búsqueda no informada versus informada
@@ -74,7 +74,7 @@ CAPÍTULO 1. INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL (IA)
 ```
 1.16.10 Python Algorithmo A*: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](workshops/pag64/file_search_astar.py)
 
-1.17 Agentes basados en conocimiento: Presentación de Harvard University - [![](https://img.shields.io/badge/PDF-207KB-FF61F6?logo=pdf&logoColor=white&style=for-the-badge)](https://cdn.cs50.net/ai/2020/spring/lectures/1/lecture1.pdf)
+1.17 Agentes basados en conocimiento: Presentación de Harvard University - [![](https://img.shields.io/badge/PDF-430KB-FF61F6?logo=pdf&logoColor=white&style=for-the-badge)](https://cdn.cs50.net/ai/2020/spring/lectures/1/lecture1.pdf)
 ```text
 1.17.1 Lógica Proposicional: Lenguaje Formal del Conocimiento
 1.17.2 Modelos y Mundos Posibles
